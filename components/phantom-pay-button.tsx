@@ -9,7 +9,7 @@ import { useRouter } from "next/navigation"
 
 // Mainnet USDC
 const USDC_MINT = new PublicKey("EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v")
-const MERCHANT_WALLET = new PublicKey("CWFyMUreJAmKqaxCCFFaWN11NYAGQru1L17S9UKRPKM3")
+const MERCHANT_WALLET = new PublicKey("Cbu156qhqKy2fdfj1MKfKqFFid42zUGdPZN4hwWk34x1")
 // Update Mainnet URL to use your QuickNode endpoint:
 const MAINNET_URL = "https://yolo-indulgent-asphalt.solana-mainnet.quiknode.pro/3389e77f16c04f5ba1313d5e1e431679b86ac4d0"
 
